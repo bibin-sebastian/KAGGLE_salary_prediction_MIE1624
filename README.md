@@ -8,3 +8,6 @@ In the dataset for Assignment 2, Q9 “What is your current yearly compensation 
 The purpose of this assignment is to
 1) understand and explore employment in the data science community, as represented in a survey conducted by Kaggle.
 2) train, validate, and tune multiple regressors that can predict, given a set of survey responses by a data scientist, what a survey respondent’s current yearly compensation is.
+
+Please download the datafile from the link below . I cannot upload to github since the file is 29+MB.
+https://drive.google.com/open?id=1pTLn8nn3ZsQRLJaQ_C8pXadSxOQ6jL0Q
