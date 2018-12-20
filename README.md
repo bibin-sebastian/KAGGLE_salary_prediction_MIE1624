@@ -1,0 +1,2 @@
+# KAGGLE_salary_prediction_MIE1624
+MIE1624_courseassignment. Kaggle salary prediction
