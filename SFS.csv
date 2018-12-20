@@ -1,0 +1,100 @@
+,0,1
+0,Q1_Male,0
+1,Q2_22-24,3
+2,Q2_25-29,4
+3,Q2_30-34,5
+4,Q2_35-39,6
+5,Q2_40-44,7
+6,Q2_45-49,8
+7,Q2_50-54,9
+8,Q2_55-59,10
+9,Q2_60-69,11
+10,Q3_Australia,14
+11,Q3_Austria,15
+12,Q3_Belgium,18
+13,Q3_Canada,20
+14,Q3_Chile,21
+15,Q3_China,22
+16,Q3_Czech Republic,24
+17,Q3_Denmark,25
+18,Q3_Finland,27
+19,Q3_France,28
+20,Q3_Germany,29
+21,Q3_Hong Kong (S.A.R.),31
+22,Q3_I do not wish to disclose my location,33
+23,Q3_India,34
+24,Q3_Ireland,37
+25,Q3_Israel,38
+26,Q3_Italy,39
+27,Q3_Japan,40
+28,Q3_Netherlands,45
+29,Q3_New Zealand,46
+30,Q3_Norway,48
+31,Q3_Poland,53
+32,Q3_Portugal,54
+33,Q3_Republic of Korea,55
+34,Q3_Romania,56
+35,Q3_Russia,57
+36,Q3_Singapore,58
+37,Q3_South Africa,59
+38,Q3_South Korea,60
+39,Q3_Spain,61
+40,Q3_Sweden,62
+41,Q3_Switzerland,63
+42,Q3_Turkey,66
+43,Q3_Ukraine,67
+44,Q3_United Kingdom of Great Britain and Northern Ireland,68
+45,Q3_United States of America,69
+46,Q3_Viet Nam,70
+47,Q4_Doctoral degree,71
+48,Q4_Master’s degree,73
+49,"Q5_Humanities (history, literature, philosophy, etc.)",81
+50,"Q5_Information technology, networking, or system administration",83
+51,Q6_Chief Officer,90
+52,Q6_Data Analyst,93
+53,Q6_Data Engineer,94
+54,Q6_Manager,98
+55,Q6_Product/Project Manager,102
+56,Q6_Research Assistant,103
+57,Q6_Student,108
+58,Q7_Accounting/Finance,109
+59,Q7_Computers/Technology,110
+60,Q7_Online Service/Internet-based Services,111
+61,Q8_10-15,113
+62,Q8_15-20,114
+63,Q8_2-3,115
+64,Q8_20-25,116
+65,Q8_25-30,117
+66,Q8_3-4,118
+67,Q8_30 +,119
+68,Q8_4-5,120
+69,Q8_5-10,121
+70,Q10_No (we do not use ML methods),122
+71,"Q10_We have well established ML methods (i.e., models in production for more than 2 years)",124
+72,"Q12_MULTIPLE_CHOICE_Basic statistical software (Microsoft Excel, Google Sheets, etc.)",127
+73,"Q12_MULTIPLE_CHOICE_Cloud-based data software & APIs (AWS, GCP, Azure, etc.)",129
+74,Q12_MULTIPLE_CHOICE_Other,131
+75,Q17_C#/.NET,132
+76,Q17_C/C++,133
+77,Q17_None,139
+78,Q17_PHP,141
+79,Q20_Caret,150
+80,Q20_H20,152
+81,Q20_Keras,153
+82,Q20_Other,155
+83,Q20_Scikit-Learn,158
+84,Q20_Spark MLlib,159
+85,Q20_TensorFlow,160
+86,Q22_D3,167
+87,Q18_Javascript,180
+88,Q18_Python,184
+89,Q23_4,193
+90,Q23_5,194
+91,Q24_4,198
+92,Q25_2,201
+93,Q25_3,202
+94,Q25_7,206
+95,Q25_8,207
+96,Q25_9,208
+97,Q26_4,210
+98,Q26_5,211
